@@ -46,6 +46,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+#Android Studio Files
 *.iml
 .gradle
 /local.properties
@@ -54,3 +55,4 @@ Temporary Items
 .DS_Store
 /build
 /captures
+NOTES.txt
