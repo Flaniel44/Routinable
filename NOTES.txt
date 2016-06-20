@@ -1,0 +1,26 @@
+Routinable Feature notes
+
+Keep track of how many tasks have been added. Create play button in action bar once there are more than zero tasks
+
+achievements: 20 hours of pushups, 100 hours of walking, etc.
+
+breaks
+
+Study X, Study Y
+
+locale
+
+When task ends, read out what the next task is going to be, or just use a sound
+
+Notify X minutes before task ends
+
+Donate
+
+Save routines to cloud + gmail account (sync)
+
+
+
+DEV NOTES
+
+Make add_task dialog it's own class, create the dialog through an object function, which returns a time or -1 (user hit cancel)
+

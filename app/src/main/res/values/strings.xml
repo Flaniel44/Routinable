@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Routinable</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_list_message">No tasks yet, add something!</string>
+    <string name="dialog_confirm">OK</string>
+    <string name="dialog_cancel">CANCEL</string>
+    <string name="hours_short">h</string>
+    <string name="minutes_short">m</string>
+    <string name="seconds_short">s</string>
+    <string name="dialog_clear">CLEAR</string>
+    <string name="double_zeros">00</string>
+</resources>
